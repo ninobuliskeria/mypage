@@ -1,17 +1,18 @@
 ---
 # Display name
-title: 吳健雄
-
+title:   Nino Buliskeria
+avatar: "avatar.jpg"
+avatar_size: 0
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Nino
+last_name: Buliskeria
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🇬🇪
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,40 +21,40 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Assistant Professor 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: "Nazarbayev University"
+    url: https://ssh.nu.edu.kz/economics_about
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:nino.buliskeria@nu.edu.kz'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/BuliskeriaNino
+#  - icon: brands/instagram
+#    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/ninobuliskeria
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://www.linkedin.com/in/nino-buliskeria-975a9b95/
+#  - icon: academicons/google-scholar
+#    url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0000-0001-6708-8519
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Expectations and Uncertainty 
+  - Publication Bias 
+  - Health Economics 
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Economics
+    institution: Charles University 
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -67,7 +68,6 @@ education:
     date_end: 2020-12-31
     summary: |
       GPA: 3.8/4.0
-
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -78,7 +78,6 @@ education:
     date_end: 2020-12-31
     summary: |
       GPA: 3.4/4.0
-      
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -141,18 +140,13 @@ skills:
         percent: 80
         icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
-
+ 
+=
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
@@ -183,4 +177,8 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an Assistant Professor at Nazarbayev University. My focus revolves around analyzing economic issues using extensive datasets, with my primary fields of interest being Macroeconomics and Econometrics.
+
+ 
+
+Contact: [nino.buliskeria[at]nu.edu.kz](nino.buliskeria@nu.edu.kz)

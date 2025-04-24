@@ -5,8 +5,9 @@
 
 # Website name
 title: Hugo Academic CV Theme
+# title: Nino Buliskeria
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://ninobuliskeria.com/'
 
 ############################
 ## LANGUAGE
