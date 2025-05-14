@@ -5,12 +5,232 @@
     <link>https://ninobuliskeria.com/research/</link>
       <atom:link href="https://ninobuliskeria.com/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ninobuliskeria.com/media/icon_hu_78938374616b6200.png</url>
       <title>Research</title>
       <link>https://ninobuliskeria.com/research/</link>
     </image>
+    
+    <item>
+      <title>Do rural banks matter that much? Burgess and Pande (2005) reconsidered</title>
+      <link>https://ninobuliskeria.com/research/1.published/jae/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/research/1.published/jae/</guid>
+      <description>&lt;p&gt;We replicate Burgess and Pande&amp;rsquo;s (2005) analysis of the effect of India&amp;quot;s state-led bank expansion on poverty. The authors instrument rural bank branch expansion by its trend reversal explained by the 1977 licensing rule and find that the bank expansion decreased poverty. However, the authors do not consider other licensing rule amendments and concurrent policies. Thus, their instrument is not necessarily exogenous to poverty. We show that the significant effect of bank expansion on poverty disappears after summarizing the trend reversal with more breaks linked to the bank licensing policy.&lt;/p&gt;
+&lt;!--
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the ** button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Disentangling p-Hacking and Publication Bias</title>
+      <link>https://ninobuliskeria.com/research/working-papers/phacking/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/research/working-papers/phacking/</guid>
+      <description>&lt;p&gt;This study differentiates p-hacking from publication bias by examining biases resulting from selective reporting within studies versus selective publication of entire studies. Analyzing a dataset of 400 meta-studies, encompassing nearly 200,000 estimates from approximately 19,000 individual studies in economics and related social sciences, I observe a notably higher incidence of p-hacking as compared to selective publication. Employing various meta-regression methods, I find that selective reporting within studies is about 20% more prevalent than publication bias arising from selection among studies. This finding underscores the considerable influence of practices such as p-hacking and method-searching, suggesting that they contribute significantly to selection bias in the economic literature and could affect the perceived reliability of published findings.&lt;/p&gt;
+&lt;!--
+
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Uncertain Trends in Economic Policy Uncertainty</title>
+      <link>https://ninobuliskeria.com/research/working-papers/uncertainty/</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/research/working-papers/uncertainty/</guid>
+      <description>&lt;p&gt;The news-based Economic Policy Uncertainty indices (EPU) of Germany, France, and the United Kingdom have discernible trends that can be found neither in other European countries nor in other uncertainty indicators. Therefore, we replicate the EPU index of European countries and show that these trends are sensitive to a rather arbitrary choice of normalizing the raw counts of news related to economic policy uncertainty by a count of all newspaper articles. We show that an alternative normalization by news on economic policy leads to different long-term dynamics with less pronounced trends and markedly lower uncertainty during recent uncertainty periods such as Brexit or the COVID-19 pandemic. Consequently, our results suggest that the effects of uncertainty related to these events on economic activity could have been overestimated.&lt;/p&gt;
+&lt;!--
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Are (Some) Uncertainty Shocks Anticipated?</title>
+      <link>https://ninobuliskeria.com/research/work-in-progress/exo/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/research/work-in-progress/exo/</guid>
+      <description>&lt;!--
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Anatomy of the New Keynesian Phillips Curve</title>
+      <link>https://ninobuliskeria.com/research/work-in-progress/nkpc/</link>
+      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/research/work-in-progress/nkpc/</guid>
+      <description>&lt;!--
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+</description>
+    </item>
     
     <item>
       <title>An example preprint / working paper</title>
@@ -68,6 +288,14 @@
 &lt;/div&gt;
 &lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://ninobuliskeria.com/research/_index1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ninobuliskeria.com/research/_index1/</guid>
+      <description></description>
     </item>
     
   </channel>

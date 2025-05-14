@@ -1,0 +1,24 @@
+
+.avatar-wrapper {
+  margin-bottom: 2rem !important;
+}
+
+.avatar {
+  width: 200px !important;
+  height: 200px !important;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto 0 auto;
+  transform: translateX(-10px); /* shift left by 10px */
+}
+
+ /* Right-align navbar menu */
+.navbar-nav {
+  margin-left: auto !important;
+}
+
+/* Optional: Keep logo at left */
+.navbar-brand {
+  margin-right: auto !important;
+}

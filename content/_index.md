@@ -24,10 +24,11 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          # filename: stacked-peaks.svg
-          filename: stacked-peaks-haikei.svg
+          #filename: stacked-peaks.svg
+          filename: wave-haikei-3.svg
+          #filename: stacked-peaks-haikei.svg
           filters:
-            brightness: 1.0
+            brightness: 1.5
           size: cover
           position: center
           parallax: false

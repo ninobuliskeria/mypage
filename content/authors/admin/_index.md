@@ -2,7 +2,7 @@
 # Display name
 title:   Nino Buliskeria
 avatar: "avatar.jpg"
-avatar_size: 0
+avatar_size: 100
 # Name pronunciation (optional)
 name_pronunciation: 
 
@@ -12,7 +12,7 @@ last_name: Buliskeria
 
 # Status emoji
 status:
-  icon: 🇬🇪
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -62,8 +62,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: MA in Economics 
+    institution: ISET & CERGE-EI 
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -72,8 +72,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BA in Economics 
+    institution: Tbilisi State University 
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -141,7 +141,7 @@ skills:
         icon: camera
 
  
-=
+
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
@@ -177,7 +177,11 @@ awards:
 
 ## About Me
 
-I am an Assistant Professor at Nazarbayev University. My focus revolves around analyzing economic issues using extensive datasets, with my primary fields of interest being Macroeconomics and Econometrics.
+I am an Assistant Professor at the Department of Economics, Nazarbayev University, in Astana, Kazakhstan. I am also researcher at the [Institute of Information Theory and Automation at the Czech Academy of Sciences](https://utia.cas.cz/en/) and at the [Institute of Economic Studies at Charles University in Prague](https://ies.fsv.cuni.cz/en). 
+
+I hold a Ph.D. in Economics from Charles University, where my dissertation focused on research reproducibility in economics. I have held visiting research positions at institutions including the University of California, Irvine; Pontificia Universidad Católica de Chile; Heidelberg University; and the National University of Singapore. 
+
+My research interests include macroeconomics, applied econometrics, and publication bias, with a particular focus on improving the transparency and credibility of empirical research in economics.
 
  
 
