@@ -7,6 +7,8 @@ weight: 10
 
 title: Published Papers
 subtitle: ''
- 
+
+content:
+  page_type: 'research/published'
 ---
  

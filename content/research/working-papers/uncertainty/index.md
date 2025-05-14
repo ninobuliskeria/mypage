@@ -1,6 +1,6 @@
 ---
 title: 'Uncertain Trends in Economic Policy Uncertainty'
-weight: 22
+weight: 3
 show_date: false
 # Authors
 authors:

@@ -6,3 +6,7 @@ build:
 params:
   css:
     - css/custom.css
+
+
+footer:
+  powered_by: false
