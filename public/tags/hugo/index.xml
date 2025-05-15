@@ -53,6 +53,7 @@
 
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 &lt;div id=&#34;chart-965813742&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 =======
 <<<<<<< Updated upstream
@@ -65,6 +66,9 @@
 <<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
+>>>>>>> Stashed changes
+=======
+&lt;div id=&#34;chart-875316492&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 >>>>>>> Stashed changes
 &lt;script&gt;
   async function fetchChartJSON() {
@@ -85,6 +89,7 @@
         console.debug(&#39;Plotting chart...&#39;)
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         window.Plotly.newPlot(&#39;chart-965813742&#39;, chart.data, chart.layout, {responsive: true});
 =======
 <<<<<<< Updated upstream
@@ -97,6 +102,9 @@
 <<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
+>>>>>>> Stashed changes
+=======
+        window.Plotly.newPlot(&#39;chart-875316492&#39;, chart.data, chart.layout, {responsive: true});
 >>>>>>> Stashed changes
       });
     }, 500 );
