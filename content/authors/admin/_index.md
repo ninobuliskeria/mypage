@@ -44,8 +44,8 @@ profiles:
     url: https://www.linkedin.com/in/nino-buliskeria-975a9b95/
 #  - icon: academicons/google-scholar
 #    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/my-orcid?orcid=0000-0001-6708-8519
+#  - icon: academicons/orcid
+#    url: https://orcid.org/my-orcid?orcid=0000-0001-6708-8519
 
 interests:
   - Expectations and Uncertainty 
@@ -177,7 +177,7 @@ awards:
 
 ## About Me
 
-I am an Assistant Professor at the Department of Economics, Nazarbayev University, in Astana, Kazakhstan. I am also researcher at the [Institute of Information Theory and Automation at the Czech Academy of Sciences](https://utia.cas.cz/en/) and at the [Institute of Economic Studies at Charles University in Prague](https://ies.fsv.cuni.cz/en). 
+I am an Assistant Professor at the [Department of Economics, Nazarbayev University](https://ssh.nu.edu.kz/economics_faculty), in Astana, Kazakhstan. I am also researcher at the [Institute of Information Theory and Automation at the Czech Academy of Sciences](https://utia.cas.cz/en/) and at the [Institute of Economic Studies at Charles University in Prague](https://ies.fsv.cuni.cz/en). 
 
 I hold a Ph.D. in Economics from Charles University, where my dissertation focused on research reproducibility in economics. I have held visiting research positions at institutions including the University of California, Irvine; Pontificia Universidad Católica de Chile; Heidelberg University; and the National University of Singapore. 
 
