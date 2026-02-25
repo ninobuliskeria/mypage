@@ -1,12 +1,16 @@
 
 .avatar-wrapper {
-  margin-bottom: 2rem !important;
+  margin-bottom: 5rem !important;
+}
+
+.article-metadata {
+  margin-bottom: 0.5rem;
 }
 
 .avatar {
-  width: 200px !important;
-  height: 200px !important;
-  border-radius: 50%;
+  width: 300px !important;
+  height: 300px !important;
+  border-radius: 10%;
   object-fit: cover;
   display: block;
   margin: 0 auto 0 auto;

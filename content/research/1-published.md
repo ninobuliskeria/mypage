@@ -2,13 +2,16 @@
 widget: 'page'
 active: true
 show_date: false
-headless: true
-weight: 10
-
-title: Published Papers
+headless: false
+weight: 100
+title: 'Published & Accepted'
+_build:
+  list: never
 subtitle: ''
-
 content:
-  page_type: 'research/published'
+  page_type: 'research/1-published'
 ---
+
+ 
+ 
  
