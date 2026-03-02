@@ -24,7 +24,7 @@ publishDate: '2023-07-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['work in progress']
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Wowchemy Conference*
@@ -32,7 +32,12 @@ publication_types: ['3']
 
 abstract: When people anticipate a change in the policy, they tend to adjust their behavior before the actual decision is made. The impact of anticipation on the results of VAR literature has been demonstrated particularly by Ramey (2009), who reexamines the differences between traditional Cholesky identification and the Ramey-Shapiro narrative approach with contradictory conclusions on the effect of government spending on consumption and wages. She discusses the importance of timing the identified shock (government spending) and argues that failing to count for the anticipation effect of the shock can cause these contradicting conclusions. So far, these aspects have not been discussed in the context of uncertainty shocks. However, some of the most prominent peaks in uncertainty, such as the Brexit referendum, could have been anticipated before the event actually happened. Daily data will allow studying the evolution of uncertainty related to specific events before and after the specific event so that an identification of the unexpected part of uncertainty will be possible.
 
-summary: When people anticipate a change in the policy, they tend to adjust their behavior before the actual decision is made. The impact of anticipation on the results of VAR literature has been demonstrated particularly by Ramey (2009), who reexamines the differences between traditional Cholesky identification and the Ramey-Shapiro narrative approach with contradictory conclusions on the effect of government spending on consumption and wages. She discusses the importance of timing the identified shock (government spending) and argues that failing to count for the anticipation effect of the shock can cause these contradicting conclusions. So far, these aspects have not been discussed in the context of uncertainty shocks. However, some of the most prominent peaks in uncertainty, such as the Brexit referendum, could have been anticipated before the event actually happened. Daily data will allow studying the evolution of uncertainty related to specific events before and after the specific event so that an identification of the unexpected part of uncertainty will be possible.
+summary: |
+  *Work in Progress*
+  
+  <br>
+
+  When people anticipate a change in the policy, they tend to adjust their behavior before the actual decision is made. The impact of anticipation on the results of VAR literature has been demonstrated particularly by Ramey (2009), who reexamines the differences between traditional Cholesky identification and the Ramey-Shapiro narrative approach with contradictory conclusions on the effect of government spending on consumption and wages. She discusses the importance of timing the identified shock (government spending) and argues that failing to count for the anticipation effect of the shock can cause these contradicting conclusions. So far, these aspects have not been discussed in the context of uncertainty shocks. However, some of the most prominent peaks in uncertainty, such as the Brexit referendum, could have been anticipated before the event actually happened. Daily data will allow studying the evolution of uncertainty related to specific events before and after the specific event so that an identification of the unexpected part of uncertainty will be possible.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

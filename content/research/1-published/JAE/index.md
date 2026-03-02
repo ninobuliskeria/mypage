@@ -8,7 +8,7 @@ authors:
 author_notes:
 - "Institute of Economic Studies of the Faculty of Social Sciences, Charles University"
 - "Institute of Economic Studies of the Faculty of Social Sciences, Charles University; Institute of Information Theory and Automation, The Czech Academy of Sciences"
-publishDate: "2022-06-01T00:00:00Z"
+publishDate: "2026-06-01T00:00:00Z"
 doi: "https://doi.org/10.1002/jae.2922"
 
 publication_types: "published"
@@ -16,9 +16,15 @@ publication_types: "published"
 publication: "*Journal of Applied Econometrics, 37*(6)"
 publication_short: "JAE"
 
-abstract: We replicate Burgess and Pande"s (2005) analysis of the effect of India"s state-led bank expansion on poverty. The authors instrument rural bank branch expansion by its trend reversal explained by the 1977 licensing rule and find that the bank expansion decreased poverty. However, the authors do not consider other licensing rule amendments and concurrent policies. Thus, their instrument is not necessarily exogenous to poverty. We show that the significant effect of bank expansion on poverty disappears after summarizing the trend reversal with more breaks linked to the bank licensing policy.
+abstract: We replicate Burgess and Pande's (2005) analysis of the effect of India"s state-led bank expansion on poverty. The authors instrument rural bank branch expansion by its trend reversal explained by the 1977 licensing rule and find that the bank expansion decreased poverty. However, the authors do not consider other licensing rule amendments and concurrent policies. Thus, their instrument is not necessarily exogenous to poverty. We show that the significant effect of bank expansion on poverty disappears after summarizing the trend reversal with more breaks linked to the bank licensing policy.
 
-summary: We replicate Burgess and Pande's (2005) analysis of the effect of India"s state-led bank expansion on poverty. The authors instrument rural bank branch expansion by its trend reversal explained by the 1977 licensing rule and find that the bank expansion decreased poverty. However, the authors do not consider other licensing rule amendments and concurrent policies. Thus, their instrument is not necessarily exogenous to poverty. We show that the significant effect of bank expansion on poverty disappears after summarizing the trend reversal with more breaks linked to the bank licensing policy.
+summary: |
+  (with Jaromir Baxa) *Journal of Applied Econometrics* 37(6). 2022
+  
+  <br>
+  
+  We replicate Burgess and Pande's (2005) analysis of the effect of India's state-led bank expansion on poverty. The authors instrument rural bank branch expansion by its trend reversal explained by the 1977 licensing rule and find that the bank expansion decreased poverty. However, the authors do not consider other licensing rule amendments and concurrent policies. Thus, their instrument is not necessarily exogenous to poverty. We show that the significant effect of bank expansion on poverty disappears after summarizing the trend reversal with more breaks linked to the bank licensing policy.
+    
 
 links:
 - name: "WP"
